@@ -13,7 +13,7 @@ This script allows you to easily install and configure Shadcn UI components into
 
 ## Installation
 
-1. Clone this repository or add the script to your project or add the files and dependencies and script in your package.json
+1. Clone this repository or add the script to your project or add the files, dependencies and script into your package.json
 2. Ensure you have [Node.js](https://nodejs.org) installed.
 3. Install dependencies:
 
