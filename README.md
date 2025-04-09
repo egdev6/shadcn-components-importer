@@ -29,12 +29,12 @@ Run the script with the following command:
 
 ### Spanish
 ```bash
-"shadcn:add:es": "node scripts/add-shadcn-es.js"
+npm run shadcn:add:es
 ```
 
 ### English
 ```bash
-"shadcn:add:en": "node scripts/add-shadcn-en.js"
+npm run shadcn:add:en
 ```
 
 You will be prompted with the following options:
