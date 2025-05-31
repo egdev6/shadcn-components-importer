@@ -50,24 +50,5 @@ Clean up unnecessary or temporary files.
 
 Display the installation status and provide feedback.
 
-### Example Output
---------------------------------------------------------
---🚀 Welcome to the Shadcn UI component installer --
---------------------------------------------------------
-
-🌐 You can view a demo of the components here:
-🔗 https://ui.shadcn.com/docs/components
-
---------------------------------------------------------
-🚀 Running: npx shadcn@latest add button
---------------------------------------------------------
-🔧 Processing file: src/components/atoms/button.tsx
---------------------------------------------------------
-✅ Component "Button" created in: src/components/atoms/Button.tsx
---------------------------------------------------------
-🎉 All done! Components installed successfully.
-🎨 Now you can start customizing the components.
---------------------------------------------------------
-
 Contributing
 Feel free to open an issue or submit a pull request if you find bugs or want to add new features.
