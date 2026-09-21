@@ -52,3 +52,12 @@ Display the installation status and provide feedback.
 
 Contributing
 Feel free to open an issue or submit a pull request if you find bugs or want to add new features.
+
+---
+
+## License
+
+Distributed under the [MIT License][license].
+
+
+[license]: LICENSE
